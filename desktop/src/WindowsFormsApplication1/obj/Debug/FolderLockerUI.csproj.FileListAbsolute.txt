@@ -1,0 +1,142 @@
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csprojResolveAssemblyReference.cache
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DataDisplay.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FileLocker.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form_Encyption.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FirstUserLogin.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_HighSecurity.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetLogin.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FolderLock.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetPassword.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csproj.GenerateResource.Cache
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\AFNAN\Documents\Visual Studio 2012\Projects\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csprojResolveAssemblyReference.cache
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DataDisplay.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FileLocker.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form_Encyption.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FirstUserLogin.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_HighSecurity.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetLogin.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FolderLock.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetPassword.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csproj.GenerateResource.Cache
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Afnan\Desktop\App\Folder Locker Extension 17-09-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csprojResolveAssemblyReference.cache
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DataDisplay.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FileLocker.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form_Encyption.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FirstUserLogin.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_HighSecurity.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetLogin.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FolderLock.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetPassword.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RSAEncryption.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csproj.GenerateResource.Cache
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Password_Bank.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 11-10-2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PasswordBankLogin.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\BusinessLogic.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\BusinessLogic.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csprojResolveAssemblyReference.cache
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DataDisplay.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FileLocker.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form_Encyption.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FirstUserLogin.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_HighSecurity.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetLogin.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_FolderLock.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.form_SetPassword.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PasswordBankLogin.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Password_Bank.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RSAEncryption.resources
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\FolderLockerUI.csproj.GenerateResource.Cache
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Afnan\Documents\Visual Studio 2012\Projects\Folder Locker Extension 05-11-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
